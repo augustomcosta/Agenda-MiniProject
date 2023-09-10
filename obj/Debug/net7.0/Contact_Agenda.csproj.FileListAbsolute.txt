@@ -1,0 +1,15 @@
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\bin\Debug\net7.0\Contact_Agenda.exe
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\bin\Debug\net7.0\Contact_Agenda.deps.json
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\bin\Debug\net7.0\Contact_Agenda.runtimeconfig.json
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\bin\Debug\net7.0\Contact_Agenda.dll
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\bin\Debug\net7.0\Contact_Agenda.pdb
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.csproj.AssemblyReference.cache
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.AssemblyInfoInputs.cache
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.AssemblyInfo.cs
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.csproj.CoreCompileInputs.cache
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.dll
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\refint\Contact_Agenda.dll
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.pdb
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\Contact_Agenda.genruntimeconfig.cache
+E:\curso_c#\Agenda_Contatos\Contact_Agenda\obj\Debug\net7.0\ref\Contact_Agenda.dll
